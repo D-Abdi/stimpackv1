@@ -1,0 +1,76 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Bree Serif", Sans-serif, serif;;
+    color: #cc0000;
+}
+
+p {
+    color: #284692;
+    font-family: "Roboto", Sans-serif, serif;
+}
+
+.banner {
+    background-image: url("../assets/banners/banner.png");
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.plantsBanner {
+    background-image: url("../assets/banners/plantsBanner.png");
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.peopleBanner {
+    background-image: url("../assets/banners/peopleBanner.png");
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.womanBanner {
+    background-image: url("../assets/banners/womanBanner.png");
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.py-6 {
+    padding-top: 4rem!important;
+    padding-bottom: 4rem!important;
+}
+
+.py-7 {
+    padding-top: 5rem!important;
+    padding-bottom: 5rem!important;
+}
+
+.py-8 {
+    padding-top: 6rem!important;
+    padding-bottom: 6rem!important;
+}
+
+.py-10 {
+    padding-top: 8rem!important;
+    padding-bottom: 8rem!important;
+}
+
+.my-6 {
+    margin-top: 4rem!important;
+    margin-bottom: 4rem!important;
+}
+
+.my-7 {
+    margin-top: 5rem!important;
+    margin-bottom: 5rem!important;
+}
+
+footer {
+    color: #ffff;
+    background-color: #284692;
+}
